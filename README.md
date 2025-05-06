@@ -76,7 +76,8 @@ A estrutura do projeto é organizada da seguinte forma:
    - `cd nome-do-repositorio`
 
 2. **Configuração do Banco de Dados:**
-   - No arquivo `appsettings.json`, já estpa configurado a string de conexão do SQLITE.
+   - No arquivo `appsettings.json`, já está configurado a string de conexão para o SQLITE.
+   - O Banco já está criado, mais se prefirir pode apagar para gerar novamente.
    - Rode o projeto para que a configuração do Seed crie o banco e popule com os dados básicos
 
 3. **Executar a Aplicação MVC:**
