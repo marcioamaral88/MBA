@@ -1,0 +1,40 @@
+﻿@model BomNegocio.Modelo.Produto
+@{
+    ViewData["Title"] = "Editar Produto";
+}
+
+<h2>Editar Produto</h2>
+
+<form asp-action="Editar" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+    <input type="hidden" asp-for="VendedorId" />
+    <input type="hidden" asp-for="ProdutoImagem" />
+    <div class="mb-3">
+        <label asp-for="Nome" class="form-label"></label>
+        <input asp-for="Nome" class="form-control" />
+        <span asp-validation-for="Nome" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Descricao" class="form-label"></label>
+        <textarea asp-for="Descricao" class="form-control"></textarea>
+        <span asp-validation-for="Descricao" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Preco" class="form-label"></label>
+        <input asp-for="Preco" class="form-control" />
+        <span asp-validation-for="Preco" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label>Imagem Atual</label><br />
+        <img src="@Model.ProdutoImagem" style="height:60px;" />
+        <input type="file" name="imagemUpload" class="form-control mt-2" accept="image/*" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="CategoriaId" class="form-label"></label>
+        <select asp-for="CategoriaId" asp-items="ViewBag.CategoriaId" class="form-control"></select>
+        <span asp-validation-for="CategoriaId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Salvar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

@@ -1,0 +1,12 @@
+C:\MBA\Projeto\BomNegocio\BomNegocio.Modelo\bin\Release\net9.0\BomNegocio.Modelo.deps.json
+C:\MBA\Projeto\BomNegocio\BomNegocio.Modelo\bin\Release\net9.0\BomNegocio.Modelo.dll
+C:\MBA\Projeto\BomNegocio\BomNegocio.Modelo\bin\Release\net9.0\BomNegocio.Modelo.pdb
+C:\MBA\Projeto\BomNegocio\BomNegocio.Modelo\obj\Release\net9.0\BomNegocio.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MBA\Projeto\BomNegocio\BomNegocio.Modelo\obj\Release\net9.0\BomNegocio.Modelo.AssemblyInfoInputs.cache
+C:\MBA\Projeto\BomNegocio\BomNegocio.Modelo\obj\Release\net9.0\BomNegocio.Modelo.AssemblyInfo.cs
+C:\MBA\Projeto\BomNegocio\BomNegocio.Modelo\obj\Release\net9.0\BomNegocio.Modelo.csproj.CoreCompileInputs.cache
+C:\MBA\Projeto\BomNegocio\BomNegocio.Modelo\obj\Release\net9.0\BomNegocio.Modelo.sourcelink.json
+C:\MBA\Projeto\BomNegocio\BomNegocio.Modelo\obj\Release\net9.0\BomNegocio.Modelo.dll
+C:\MBA\Projeto\BomNegocio\BomNegocio.Modelo\obj\Release\net9.0\refint\BomNegocio.Modelo.dll
+C:\MBA\Projeto\BomNegocio\BomNegocio.Modelo\obj\Release\net9.0\BomNegocio.Modelo.pdb
+C:\MBA\Projeto\BomNegocio\BomNegocio.Modelo\obj\Release\net9.0\ref\BomNegocio.Modelo.dll

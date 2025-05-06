@@ -1,0 +1,11 @@
+C:\projetos\BomNegocio\BomNegocio.Model\obj\Debug\net9.0\BomNegocio.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\BomNegocio\BomNegocio.Model\obj\Debug\net9.0\BomNegocio.Model.AssemblyInfoInputs.cache
+C:\projetos\BomNegocio\BomNegocio.Model\obj\Debug\net9.0\BomNegocio.Model.AssemblyInfo.cs
+C:\projetos\BomNegocio\BomNegocio.Model\obj\Debug\net9.0\BomNegocio.Model.csproj.CoreCompileInputs.cache
+C:\projetos\BomNegocio\BomNegocio.Model\bin\Debug\net9.0\BomNegocio.Model.deps.json
+C:\projetos\BomNegocio\BomNegocio.Model\bin\Debug\net9.0\BomNegocio.Model.dll
+C:\projetos\BomNegocio\BomNegocio.Model\bin\Debug\net9.0\BomNegocio.Model.pdb
+C:\projetos\BomNegocio\BomNegocio.Model\obj\Debug\net9.0\BomNegocio.Model.dll
+C:\projetos\BomNegocio\BomNegocio.Model\obj\Debug\net9.0\refint\BomNegocio.Model.dll
+C:\projetos\BomNegocio\BomNegocio.Model\obj\Debug\net9.0\BomNegocio.Model.pdb
+C:\projetos\BomNegocio\BomNegocio.Model\obj\Debug\net9.0\ref\BomNegocio.Model.dll

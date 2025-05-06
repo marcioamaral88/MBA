@@ -1,0 +1,4 @@
+C:\projetos\BomNegocio\BomNegocio.Model\obj\Debug\net8.0\BomNegocio.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\BomNegocio\BomNegocio.Model\obj\Debug\net8.0\BomNegocio.Model.AssemblyInfoInputs.cache
+C:\projetos\BomNegocio\BomNegocio.Model\obj\Debug\net8.0\BomNegocio.Model.AssemblyInfo.cs
+C:\projetos\BomNegocio\BomNegocio.Model\obj\Debug\net8.0\BomNegocio.Model.csproj.CoreCompileInputs.cache

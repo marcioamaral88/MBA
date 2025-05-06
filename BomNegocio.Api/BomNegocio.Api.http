@@ -1,0 +1,6 @@
+@BomNegocio.Api_HostAddress = http://localhost:5251
+
+GET {{BomNegocio.Api_HostAddress}}/api/
+Accept: application/json
+
+###

@@ -1,0 +1,26 @@
+﻿@model BomNegocio.Modelo.Produto
+
+@{
+    ViewData["Title"] = "Detalhes do Produto";
+}
+
+<h2>Detalhes do Produto</h2>
+
+<div class="card shadow-sm p-4">
+    <div class="row">
+        <div class="col-md-4">
+            <img src="@Model.ProdutoImagem" alt="@Model.Nome" class="img-fluid rounded" />
+        </div>
+        <div class="col-md-8">
+            <h3>@Model.Nome</h3>
+            <p><strong>Descrição:</strong> @Model.Descricao</p>
+            <p><strong>Estoque:</strong> @Model.Estoque</p>
+            <p><strong>Preço:</strong> R$ @Model.Preco.ToString("F2")</p>
+            <p><strong>Categoria:</strong> @Model.Categoria?.Nome</p>
+            <p><strong>Vendedor:</strong> @Model.Vendedor?.Nome</p>
+            <div class="mt-4">
+                <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Voltar</a>
+            </div>
+        </div>
+    </div>
+</div>

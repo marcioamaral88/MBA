@@ -1,0 +1,14 @@
+C:\projetos\BomNegocio\BomNegocio.DataAccess\bin\Debug\net8.0\BomNegocio.DataAccess.deps.json
+C:\projetos\BomNegocio\BomNegocio.DataAccess\bin\Debug\net8.0\BomNegocio.DataAccess.runtimeconfig.json
+C:\projetos\BomNegocio\BomNegocio.DataAccess\bin\Debug\net8.0\BomNegocio.DataAccess.dll
+C:\projetos\BomNegocio\BomNegocio.DataAccess\bin\Debug\net8.0\BomNegocio.DataAccess.pdb
+C:\projetos\BomNegocio\BomNegocio.DataAccess\obj\Debug\net8.0\BomNegocio.DataAccess.csproj.AssemblyReference.cache
+C:\projetos\BomNegocio\BomNegocio.DataAccess\obj\Debug\net8.0\BomNegocio.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\BomNegocio\BomNegocio.DataAccess\obj\Debug\net8.0\BomNegocio.DataAccess.AssemblyInfoInputs.cache
+C:\projetos\BomNegocio\BomNegocio.DataAccess\obj\Debug\net8.0\BomNegocio.DataAccess.AssemblyInfo.cs
+C:\projetos\BomNegocio\BomNegocio.DataAccess\obj\Debug\net8.0\BomNegocio.DataAccess.csproj.CoreCompileInputs.cache
+C:\projetos\BomNegocio\BomNegocio.DataAccess\obj\Debug\net8.0\BomNegocio.DataAccess.dll
+C:\projetos\BomNegocio\BomNegocio.DataAccess\obj\Debug\net8.0\refint\BomNegocio.DataAccess.dll
+C:\projetos\BomNegocio\BomNegocio.DataAccess\obj\Debug\net8.0\BomNegocio.DataAccess.pdb
+C:\projetos\BomNegocio\BomNegocio.DataAccess\obj\Debug\net8.0\BomNegocio.DataAccess.genruntimeconfig.cache
+C:\projetos\BomNegocio\BomNegocio.DataAccess\obj\Debug\net8.0\ref\BomNegocio.DataAccess.dll

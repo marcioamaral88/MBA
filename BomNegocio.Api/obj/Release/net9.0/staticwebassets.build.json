@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uhzWfpUpOcftoB0P6+avVf010YDagzioagSViQ98yOA=",
+  "Source": "BomNegocio.Api",
+  "BasePath": "_content/BomNegocio.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

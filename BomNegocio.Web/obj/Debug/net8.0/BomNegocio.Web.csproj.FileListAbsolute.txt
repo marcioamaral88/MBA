@@ -1,0 +1,8 @@
+C:\projetos\BomNegocio\BomNegocio.Web\obj\Debug\net8.0\BomNegocio.Web.csproj.AssemblyReference.cache
+C:\projetos\BomNegocio\BomNegocio.Web\obj\Debug\net8.0\BomNegocio.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\BomNegocio\BomNegocio.Web\obj\Debug\net8.0\BomNegocio.Web.AssemblyInfoInputs.cache
+C:\projetos\BomNegocio\BomNegocio.Web\obj\Debug\net8.0\BomNegocio.Web.AssemblyInfo.cs
+C:\projetos\BomNegocio\BomNegocio.Web\obj\Debug\net8.0\BomNegocio.Web.csproj.CoreCompileInputs.cache
+C:\projetos\BomNegocio\BomNegocio.Web\obj\Debug\net8.0\BomNegocio.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\projetos\BomNegocio\BomNegocio.Web\obj\Debug\net8.0\BomNegocio.Web.RazorAssemblyInfo.cache
+C:\projetos\BomNegocio\BomNegocio.Web\obj\Debug\net8.0\BomNegocio.Web.RazorAssemblyInfo.cs

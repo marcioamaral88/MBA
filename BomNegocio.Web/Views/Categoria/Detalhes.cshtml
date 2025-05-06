@@ -1,0 +1,22 @@
+﻿@model BomNegocio.Modelo.Categoria
+
+@{
+    ViewData["Title"] = "Detalhes Categoria";
+}
+
+<h2>Detalhes do Produto</h2>
+
+<div class="card shadow-sm p-4">
+    <div class="row">
+
+        <div class="col-md-8">
+            <h3>@Model.Nome</h3>
+            <p><strong>Descrição:</strong> @Model.Descricao</p>
+
+            <div class="mt-4">
+                <a asp-action="Editar" asp-route-id="@Model.Id" class="btn btn-warning">Editar</a>
+                <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+            </div>
+        </div>
+    </div>
+</div>
