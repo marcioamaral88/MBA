@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BomNegocio.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa29eeb1b0a5888dbc012b40e01963f2d47046e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b36fbebe9a53a979f58408af76a64d84b3e31c52")]
 [assembly: System.Reflection.AssemblyProductAttribute("BomNegocio.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BomNegocio.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

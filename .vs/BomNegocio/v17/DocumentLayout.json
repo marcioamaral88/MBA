@@ -1,94 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\MBA\\Projeto\\BomNegocio\\",
+  "WorkspaceRootPath": "C:\\github\\BomNegocio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.web\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\github\\bomnegocio\\bomnegocio.web\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|solutionrelative:bomnegocio.web\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{584D3025-316B-DF33-5FB6-69DB27CCE791}|BomNegocio.Modelo\\BomNegocio.Modelo.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.modelo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{584D3025-316B-DF33-5FB6-69DB27CCE791}|BomNegocio.Modelo\\BomNegocio.Modelo.csproj|c:\\github\\bomnegocio\\bomnegocio.modelo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{584D3025-316B-DF33-5FB6-69DB27CCE791}|BomNegocio.Modelo\\BomNegocio.Modelo.csproj|solutionrelative:bomnegocio.modelo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.web\\views\\produtos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\github\\bomnegocio\\bomnegocio.web\\views\\produtos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|solutionrelative:bomnegocio.web\\views\\produtos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.web\\views\\produtos\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\github\\bomnegocio\\bomnegocio.web\\views\\produtos\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|solutionrelative:bomnegocio.web\\views\\produtos\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA098EEB-CCE7-474F-2C1E-DAE373113DE3}|BomNegocio.Dados\\BomNegocio.Dados.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.dados\\configurations\\produtoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA098EEB-CCE7-474F-2C1E-DAE373113DE3}|BomNegocio.Dados\\BomNegocio.Dados.csproj|c:\\github\\bomnegocio\\bomnegocio.dados\\configurations\\produtoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA098EEB-CCE7-474F-2C1E-DAE373113DE3}|BomNegocio.Dados\\BomNegocio.Dados.csproj|solutionrelative:bomnegocio.dados\\configurations\\produtoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\github\\bomnegocio\\bomnegocio.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|solutionrelative:bomnegocio.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\github\\bomnegocio\\bomnegocio.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|solutionrelative:bomnegocio.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\github\\bomnegocio\\bomnegocio.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|solutionrelative:bomnegocio.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\github\\bomnegocio\\bomnegocio.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|solutionrelative:bomnegocio.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\github\\bomnegocio\\bomnegocio.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|solutionrelative:bomnegocio.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\github\\bomnegocio\\bomnegocio.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|solutionrelative:bomnegocio.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\github\\bomnegocio\\bomnegocio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|solutionrelative:bomnegocio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.api\\configuration\\databaseselectorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\github\\bomnegocio\\bomnegocio.api\\configuration\\databaseselectorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|solutionrelative:bomnegocio.api\\configuration\\databaseselectorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.api\\bomnegocio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\github\\bomnegocio\\bomnegocio.api\\bomnegocio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|solutionrelative:bomnegocio.api\\bomnegocio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\github\\bomnegocio\\bomnegocio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|solutionrelative:bomnegocio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\github\\bomnegocio\\bomnegocio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|solutionrelative:bomnegocio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\github\\bomnegocio\\bomnegocio.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|solutionrelative:bomnegocio.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.web\\configuration\\dbmigrationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|c:\\github\\bomnegocio\\bomnegocio.web\\configuration\\dbmigrationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0C7ECE-994D-4811-8413-5148D3D4BF4F}|BomNegocio.Web\\BomNegocio.Web.csproj|solutionrelative:bomnegocio.web\\configuration\\dbmigrationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.api\\configuration\\dbmigrationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\github\\bomnegocio\\bomnegocio.api\\configuration\\dbmigrationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|solutionrelative:bomnegocio.api\\configuration\\dbmigrationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.api\\bomnegocio.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|c:\\github\\bomnegocio\\bomnegocio.api\\bomnegocio.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{7C44810F-9D7E-49B8-8DC2-3AB3FB48CEE9}|BomNegocio.Api\\BomNegocio.Api.csproj|solutionrelative:bomnegocio.api\\bomnegocio.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Dados\\Migrations\\20250506041349_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BomNegocio.Dados\\Migrations\\20250506041349_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA098EEB-CCE7-474F-2C1E-DAE373113DE3}|BomNegocio.Dados\\BomNegocio.Dados.csproj|c:\\github\\bomnegocio\\bomnegocio.dados\\contexto\\bomnegociocontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA098EEB-CCE7-474F-2C1E-DAE373113DE3}|BomNegocio.Dados\\BomNegocio.Dados.csproj|solutionrelative:bomnegocio.dados\\contexto\\bomnegociocontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA098EEB-CCE7-474F-2C1E-DAE373113DE3}|BomNegocio.Dados\\BomNegocio.Dados.csproj|c:\\mba\\projeto\\bomnegocio\\bomnegocio.dados\\contexto\\bomnegociocontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA098EEB-CCE7-474F-2C1E-DAE373113DE3}|BomNegocio.Dados\\BomNegocio.Dados.csproj|solutionrelative:bomnegocio.dados\\contexto\\bomnegociocontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA098EEB-CCE7-474F-2C1E-DAE373113DE3}|BomNegocio.Dados\\BomNegocio.Dados.csproj|c:\\github\\bomnegocio\\bomnegocio.dados\\migrations\\20250506041349_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA098EEB-CCE7-474F-2C1E-DAE373113DE3}|BomNegocio.Dados\\BomNegocio.Dados.csproj|solutionrelative:bomnegocio.dados\\migrations\\20250506041349_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -104,74 +104,69 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Modelo\\Produto.cs",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Modelo\\Produto.cs",
               "RelativeDocumentMoniker": "BomNegocio.Modelo\\Produto.cs",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Modelo\\Produto.cs",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Modelo\\Produto.cs",
               "RelativeToolTip": "BomNegocio.Modelo\\Produto.cs",
               "ViewState": "AgIAABQAAAAAAAAAAADwvx0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:46:33.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T05:46:33.054Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ProdutosController.cs",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\Controllers\\ProdutosController.cs",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Api\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "BomNegocio.Api\\Controllers\\ProdutosController.cs",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Api\\Controllers\\ProdutosController.cs",
               "RelativeToolTip": "BomNegocio.Api\\Controllers\\ProdutosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:01:27.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T05:01:27.824Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BomNegocio.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "BomNegocio.Web\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T04:24:19.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:24:19.214Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BomNegocio.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BomNegocio.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T04:21:26.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:21:26.83Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Views\\Produtos\\Editar.cshtml",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Web\\Views\\Produtos\\Editar.cshtml",
               "RelativeDocumentMoniker": "BomNegocio.Web\\Views\\Produtos\\Editar.cshtml",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Views\\Produtos\\Editar.cshtml",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Web\\Views\\Produtos\\Editar.cshtml",
               "RelativeToolTip": "BomNegocio.Web\\Views\\Produtos\\Editar.cshtml",
               "ViewState": "AgIAABMAAAAAAAAAAAAswBwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T04:39:04.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:39:04.255Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProdutosController.cs",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Controllers\\ProdutosController.cs",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Web\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "BomNegocio.Web\\Controllers\\ProdutosController.cs",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Web\\Controllers\\ProdutosController.cs",
               "RelativeToolTip": "BomNegocio.Web\\Controllers\\ProdutosController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -182,209 +177,193 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "BomNegocio.Api\\appsettings.Development.json",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Api\\appsettings.Development.json",
               "RelativeToolTip": "BomNegocio.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-06T04:33:38.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:33:38.411Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Detalhes.cshtml",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Views\\Produtos\\Detalhes.cshtml",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Web\\Views\\Produtos\\Detalhes.cshtml",
               "RelativeDocumentMoniker": "BomNegocio.Web\\Views\\Produtos\\Detalhes.cshtml",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Views\\Produtos\\Detalhes.cshtml",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Web\\Views\\Produtos\\Detalhes.cshtml",
               "RelativeToolTip": "BomNegocio.Web\\Views\\Produtos\\Detalhes.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T05:48:33.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T05:48:33.09Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ProdutoConfig.cs",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Dados\\Configurations\\ProdutoConfig.cs",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Dados\\Configurations\\ProdutoConfig.cs",
               "RelativeDocumentMoniker": "BomNegocio.Dados\\Configurations\\ProdutoConfig.cs",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Dados\\Configurations\\ProdutoConfig.cs",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Dados\\Configurations\\ProdutoConfig.cs",
               "RelativeToolTip": "BomNegocio.Dados\\Configurations\\ProdutoConfig.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T04:10:51.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:10:51.662Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\appsettings.json",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Api\\appsettings.json",
               "RelativeDocumentMoniker": "BomNegocio.Api\\appsettings.json",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\appsettings.json",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Api\\appsettings.json",
               "RelativeToolTip": "BomNegocio.Api\\appsettings.json",
               "ViewState": "AgIAAAEAAAAAAAAAAAAmwAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-06T04:33:24.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:33:24.833Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Program.cs",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Web\\Program.cs",
               "RelativeDocumentMoniker": "BomNegocio.Web\\Program.cs",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Program.cs",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Web\\Program.cs",
               "RelativeToolTip": "BomNegocio.Web\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T04:20:30.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:20:30.275Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\Program.cs",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Api\\Program.cs",
               "RelativeDocumentMoniker": "BomNegocio.Api\\Program.cs",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\Program.cs",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Api\\Program.cs",
               "RelativeToolTip": "BomNegocio.Api\\Program.cs",
               "ViewState": "AgIAAFgAAAAAAAAAAAAAAGEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T04:51:11.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:51:11.334Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Web\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BomNegocio.Web\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Web\\Properties\\launchSettings.json",
               "RelativeToolTip": "BomNegocio.Web\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-06T05:27:34.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T05:27:34.155Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "BomNegocio.Api",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\BomNegocio.Api.csproj",
+              "Title": "BomNegocio.Api.csproj",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Api\\BomNegocio.Api.csproj",
               "RelativeDocumentMoniker": "BomNegocio.Api\\BomNegocio.Api.csproj",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\BomNegocio.Api.csproj",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Api\\BomNegocio.Api.csproj",
               "RelativeToolTip": "BomNegocio.Api\\BomNegocio.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-06T04:53:11.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:53:11.499Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\appsettings.json",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Web\\appsettings.json",
               "RelativeDocumentMoniker": "BomNegocio.Web\\appsettings.json",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\appsettings.json",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Web\\appsettings.json",
               "RelativeToolTip": "BomNegocio.Web\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-06T05:27:21.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T05:27:21.705Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BomNegocio.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Api\\Properties\\launchSettings.json",
               "RelativeToolTip": "BomNegocio.Api\\Properties\\launchSettings.json",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-06T04:42:51.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:42:51.5Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "DatabaseSelectorExtension.cs",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\Configuration\\DatabaseSelectorExtension.cs",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Api\\Configuration\\DatabaseSelectorExtension.cs",
               "RelativeDocumentMoniker": "BomNegocio.Api\\Configuration\\DatabaseSelectorExtension.cs",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\Configuration\\DatabaseSelectorExtension.cs",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Api\\Configuration\\DatabaseSelectorExtension.cs",
               "RelativeToolTip": "BomNegocio.Api\\Configuration\\DatabaseSelectorExtension.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T04:49:55.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:49:55.954Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "DbMigrationHelpers.cs",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Configuration\\DbMigrationHelpers.cs",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Web\\Configuration\\DbMigrationHelpers.cs",
               "RelativeDocumentMoniker": "BomNegocio.Web\\Configuration\\DbMigrationHelpers.cs",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Web\\Configuration\\DbMigrationHelpers.cs",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Web\\Configuration\\DbMigrationHelpers.cs",
               "RelativeToolTip": "BomNegocio.Web\\Configuration\\DbMigrationHelpers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T04:50:38.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:50:38.241Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "DbMigrationHelpers.cs",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\Configuration\\DbMigrationHelpers.cs",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Api\\Configuration\\DbMigrationHelpers.cs",
               "RelativeDocumentMoniker": "BomNegocio.Api\\Configuration\\DbMigrationHelpers.cs",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\Configuration\\DbMigrationHelpers.cs",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Api\\Configuration\\DbMigrationHelpers.cs",
               "RelativeToolTip": "BomNegocio.Api\\Configuration\\DbMigrationHelpers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T04:50:05.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:50:05.599Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "BomNegocio.Api.http",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\BomNegocio.Api.http",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Api\\BomNegocio.Api.http",
               "RelativeDocumentMoniker": "BomNegocio.Api\\BomNegocio.Api.http",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Api\\BomNegocio.Api.http",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Api\\BomNegocio.Api.http",
               "RelativeToolTip": "BomNegocio.Api\\BomNegocio.Api.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-05-06T04:37:02.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20250506041349_inicio.cs",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Dados\\Migrations\\20250506041349_inicio.cs",
-              "RelativeDocumentMoniker": "BomNegocio.Dados\\Migrations\\20250506041349_inicio.cs",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Dados\\Migrations\\20250506041349_inicio.cs",
-              "RelativeToolTip": "BomNegocio.Dados\\Migrations\\20250506041349_inicio.cs",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAQwCoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T04:13:49.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:37:02.138Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "20250506041349_inicio.cs",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Dados\\Migrations\\20250506041349_inicio.cs",
+              "RelativeDocumentMoniker": "BomNegocio.Dados\\Migrations\\20250506041349_inicio.cs",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Dados\\Migrations\\20250506041349_inicio.cs",
+              "RelativeToolTip": "BomNegocio.Dados\\Migrations\\20250506041349_inicio.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAQwCoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:13:49.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "BomNegocioContexto.cs",
-              "DocumentMoniker": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Dados\\Contexto\\BomNegocioContexto.cs",
+              "DocumentMoniker": "C:\\github\\BomNegocio\\BomNegocio.Dados\\Contexto\\BomNegocioContexto.cs",
               "RelativeDocumentMoniker": "BomNegocio.Dados\\Contexto\\BomNegocioContexto.cs",
-              "ToolTip": "C:\\MBA\\Projeto\\BomNegocio\\BomNegocio.Dados\\Contexto\\BomNegocioContexto.cs",
+              "ToolTip": "C:\\github\\BomNegocio\\BomNegocio.Dados\\Contexto\\BomNegocioContexto.cs",
               "RelativeToolTip": "BomNegocio.Dados\\Contexto\\BomNegocioContexto.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAA3wB0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T04:10:08.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T04:10:08.578Z"
             }
           ]
         }
